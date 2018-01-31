@@ -1,6 +1,6 @@
-# vueproject-a
+# Vue Js CLI CRUD With Firebase and Vue Bootstrap 4
 
-> A Vue.js project
+> Vue JS CLI CRUD Project with Google firebase realtime database and Vue Bootsrap 4 Template.
 
 ## Build Setup
 

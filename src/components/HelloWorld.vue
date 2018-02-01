@@ -1,6 +1,9 @@
 <template>
-  <div class="hello">
-
+  <div class="hello text-center">
+    <h1>Vue  Js  CLI  CRUD  With  Firebase  Database<br/>  and  Vue-Bootstrap 4</h1>
+    <span>
+      <em>By </em><strong>Siam Maruf</strong>
+    </span>
   </div>
 </template>
 
@@ -30,5 +33,17 @@ li {
 }
 a {
   color: #42b983;
+}
+.hello h1{
+  margin-top: 10%;
+  text-transform: uppercase;
+  font-size: 22px;
+  font-weight: bold;
+  color: #656565;
+  letter-spacing: 2px;
+}
+
+.hello span{
+
 }
 </style>

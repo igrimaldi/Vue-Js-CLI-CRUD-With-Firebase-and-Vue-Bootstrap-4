@@ -4,10 +4,10 @@
       <h1 class="page-title">{{title}}</h1>
       <hr/>
       <div class="posts-wrap">
-        <div v-for="post in posts" class="post">
+        <!-- <div v-for="post in posts" class="post">
           <h4>{{post.title}}</h4>
           <p>{{post.body}}</p>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
